@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(219, 255, 255);
+    text-align: center;
+}
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+button {
+    color: white;
+    background-color: black;
+
+}
