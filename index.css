@@ -8,6 +8,10 @@ ul {
 a {
     text-decoration: none;
 }
+img {
+    height: 400px;
+    width: 600px;
+}
 a:visited{
     color: rgb(0, 0, 0);
 }
